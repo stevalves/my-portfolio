@@ -34,9 +34,11 @@ export const Home = (): JSX.Element => {
               Criando experiências desde o primeiro "Hello World"{" "}
             </Text>
             <Text type="body1" color="grey6">
-              Sou estudante de programação na Kenzie Academy Brasil, participei
-              de diversos projetos resolvendo problemas de alto nível e
-              desenvolvendo habilidades
+              Sou um Desenvolvedor Full Stack e estou na última etapa de um
+              curso de 2000 horas pela Kenzie Academy Brasil. Com mais de 30
+              projetos concluídos e com muita vontade de aprender, hoje busco
+              uma oportunidade de colocar em prática o que já aprendi. Vamos
+              trocar uma idéia?
             </Text>
             <HeaderButtonsArea>
               <Button as="a" href="#projetos">
