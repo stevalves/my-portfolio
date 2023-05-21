@@ -4,7 +4,7 @@ import imgJS from "../public/static/img/stack/js.svg";
 import imgNode from "../public/static/img/stack/node.svg";
 import imgStyled from "../public/static/img/stack/styled.svg";
 import imgReact from "../public/static/img/stack/react.svg";
-import { SiTypescript, SiPython, SiDjango, SiTailwindcss } from "react-icons/si";
+import { SiTypescript, SiPython, SiDjango, SiTailwindcss, SiExpress } from "react-icons/si";
 import { TbBrandNextjs } from "react-icons/tb";
 
 
@@ -24,6 +24,10 @@ export const stackData = [
   {
     title: "Node JS",
     img: imgNode,
+  },
+  {
+    title: "ExpressJS",
+    img: SiExpress,
   },
   {
     title: "Styled Components",
